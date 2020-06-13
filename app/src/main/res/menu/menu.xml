@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="add_food"
+        android:icon="@drawable/ic_add_box_black_24dp"/>
+    <item
+        android:id="@+id/search_bar"
+        android:title="search_recipies"
+        android:icon="@drawable/ic_search_black_24dp"/>
+    <item
+        android:id="@+id/favourite"
+        android:title="favourite_recupies"
+        android:icon="@drawable/ic_favorite_black_24dp"/>
+    <item
+        android:id="@+id/ingredient"
+        android:title="my_ingredient"
+        android:icon="@drawable/ic_merge_type_black_24dp"/>
+
+</menu>
