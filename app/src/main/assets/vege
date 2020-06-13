@@ -1,0 +1,17 @@
+{
+  "vege": [
+    {
+      "name": "Potato",
+      "image": "potato"
+    },
+    {
+      "name": "Tomato",
+      "image": "tomato"
+    },
+    {
+      "name": "Lettuce",
+      "image": "lettuce"
+    }
+    ]
+
+}

@@ -1,0 +1,21 @@
+{
+  "meat": [
+    {
+      "name": "salmon fish",
+      "image": "fish"
+    },
+    {
+      "name": "Beef",
+      "image": "beef"
+    },
+    {
+      "name": "Ham",
+      "image": "ham"
+    },
+    {
+      "name": "Pork",
+      "image": "pork"
+    }
+    ]
+
+}

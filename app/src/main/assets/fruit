@@ -1,0 +1,21 @@
+{
+  "fruit": [
+    {
+      "name": "Oranges",
+      "image": "oranges"
+    },
+    {
+      "name": "Apple",
+      "image": "apple"
+    },
+    {
+      "name": "Bananas",
+      "image": "bananas"
+    },
+    {
+      "name": "Strawberry",
+      "image": "strawberry"
+    }
+    ]
+
+}

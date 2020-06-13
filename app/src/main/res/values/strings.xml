@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FireWorkApplication</string>
+    <string name="todo">todo</string>
+    <string name="name">name</string>
+    <string name="select_your_food">Select Your Food</string>
+    <string name="food_in_my_frigde">Food In My Frigde</string>
+    <string name="food_recipes">Food Recipes</string>
+    <string name="my_favourite_recipes">My Favourite Recipes</string>
+    <string name="textview">TextView</string>
+    <string name="how_many_pounds">How many pounds?</string>
+    <string name="add_to_fridge">Add To Fridge</string>
+    <string name="how_many_pounds_">How Many Pounds</string>
+</resources>
