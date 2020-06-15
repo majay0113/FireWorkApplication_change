@@ -11,7 +11,12 @@
     {
       "name": "Lettuce",
       "image": "lettuce"
+    },
+    {
+      "name": "Lettuce",
+      "image": "lettuce"
     }
+
     ]
 
 }
